@@ -12,7 +12,7 @@ The Arduino code orchestrates the functionality of the drawing system. Utilizing
 
 ## Components 
 
-2 servo motors   
+3 servo motors   
 1 arduino uno  
 Wires  
 A lot of specific legos   
