@@ -12,6 +12,10 @@ The Arduino code orchestrates the functionality of the drawing system. Utilizing
 
 ## Components 
 
+2 servo motors
+1 arduino
+A lot of specific legos
+
 ### Libraries:
 
 Stepper.h   
