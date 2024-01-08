@@ -2,6 +2,8 @@
 
 Welcome to the Drawing System project, an Arduino-based system designed for precise control of a drawing tool, such as a pencil. The system is equipped with servo motors for accurate positioning. Additionally, a Python script is provided to facilitate image processing for drawing intricate patterns.
 
+https://github.com/HussAreus/Lego-Bob-Ross/assets/93789780/9da389db-d18d-4629-adc8-274f061d8711
+
 ## Arduino Code (drawing_system.ino)
 
 # Overview
