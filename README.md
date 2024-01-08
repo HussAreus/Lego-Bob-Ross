@@ -1,12 +1,12 @@
 # Drawing System
 
-Welcome to the Drawing System project, an Arduino-based system designed for precise control of a drawing tool, such as a pencil or needle. The system is equipped with servo motors for accurate positioning and user-friendly buttons for interactive control. Additionally, a Python script is provided to facilitate image processing for drawing intricate patterns.
+Welcome to the Drawing System project, an Arduino-based system designed for precise control of a drawing tool, such as a pencil. The system is equipped with servo motors for accurate positioning. Additionally, a Python script is provided to facilitate image processing for drawing intricate patterns.
 
 ## Arduino Code (drawing_system.ino)
 
 # Overview
 
-The Arduino code orchestrates the functionality of the drawing system. Utilizing servo motors and buttons, it enables the system to draw predefined shapes. The code includes features for starting, stopping, and loading drawings.
+The Arduino code orchestrates the functionality of the drawing system. Utilizing servo motors, it enables the system to draw predefined shapes. The code includes features for starting, stopping, and loading drawings.
 
 ## Components 
 
